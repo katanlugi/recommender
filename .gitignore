@@ -1,0 +1,9 @@
+.classpath
+.DS_Store
+.project
+/.settings
+/target
+model/data/
+model/metadata
+data/big
+data/small
