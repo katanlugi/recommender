@@ -4,9 +4,6 @@ Recommender currently used by the [recommender website](https://github.com/katan
 
 > This is a Maven based app which makes use of [apache spark](https://spark.apache.org/) mllib and [nd4j](https://nd4j.org/) as well as [Java Spark](http://sparkjava.com/) for the server part.
 
-> This recommender does **not** make use at all of [Apache Mahout](https://mahout.apache.org/).
-
-
 ## Usage
 This recommender can be used either in local or server mode running the ```Main.java``` or ```MainServer.java``` respectively. (You can also run multiple configuration in a row using the ```MainOptimalFinder.java``` which simply allows to execute multiple run, each time with other parameters).
 
